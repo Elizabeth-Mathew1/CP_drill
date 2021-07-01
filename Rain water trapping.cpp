@@ -4,7 +4,7 @@
 //Memory Usage: 14.2 MB, less than 78.43% of C++ online submissions for Trapping Rain Water.
 
 
-class Solution {
+/*lass Solution {
 public:
     int trap(vector<int>& height) 
     {
@@ -54,4 +54,4 @@ public:
         return sum;
         
     }
-};
+};*/
